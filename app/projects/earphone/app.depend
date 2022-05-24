@@ -1,0 +1,2870 @@
+# depslib dependency file v1.0
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\3rd-party\i2s\ta5711.c
+	"include.h"
+	"bsp_i2c.h"
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\header\include.h
+	"global.h"
+	"xcfg.h"
+	"config.h"
+	"io_def.h"
+	"api.h"
+	"../3rd-party/3rd_part.h"
+	"func.h"
+	"bsp.h"
+	"gui.h"
+	"plugin.h"
+	"res.h"
+	"res2.h"
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\header\global.h
+	<stddef.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"typedef.h"
+	"macro.h"
+	"clib.h"
+	"sfr.h"
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\header\typedef.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\header\macro.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\header\clib.h
+
+1638867647 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\header\sfr.h
+
+1638411070 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\xcfg.h
+
+1646046306 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\config.h
+	"config_define.h"
+	"config_extra.h"
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\header\config_define.h
+
+1638868187 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\header\config_extra.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\header\io_def.h
+	"global.h"
+	"config.h"
+	"sfr.h"
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api.h
+	"api_btstack.h"
+	"api_cm.h"
+	"api_music.h"
+	"api_sd.h"
+	"api_rtc.h"
+	"api_usb.h"
+	"api_fs.h"
+	"api_device.h"
+	"api_sdadc.h"
+	"api_update.h"
+	"api_dac.h"
+	"api_sysclk.h"
+	"api_msg.h"
+	"api_saradc.h"
+	"api_fmrx.h"
+	"api_sys.h"
+	"api_pwr.h"
+	"api_key.h"
+	"api_gpio.h"
+	"api_uart.h"
+	"api_karaok.h"
+	"api_fmtx.h"
+	"api_math.h"
+	"api_tkey.h"
+	"api_nr.h"
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_btstack.h
+
+1641972696 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_cm.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_music.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_sd.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_rtc.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_usb.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_fs.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_device.h
+
+1638413730 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_sdadc.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_update.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_dac.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_sysclk.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_msg.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_saradc.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_fmrx.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_sys.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_pwr.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_key.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_gpio.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_uart.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_karaok.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_fmtx.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_math.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_tkey.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_nr.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\3rd-party\3rd_part.h
+	".\sensor\sensor.h"
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\3rd-party\sensor\sensor.h
+	"include.h"
+	"..\..\platform\3rd-party\sensor\sc7a20.h"
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\3rd-party\sensor\sc7a20.h
+
+1638870370 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func.h
+	"func_bt.h"
+	"func_bt_hid.h"
+	"func_bt_dut.h"
+	"func_clock.h"
+	"func_idle.h"
+	"func_music.h"
+	"func_usbdev.h"
+	"func_aux.h"
+	"func_speaker.h"
+	"sfunc_record.h"
+	"sfunc_record_play.h"
+	"func_lowpwr.h"
+	"func_fmam_freq.h"
+	"func_update.h"
+	"func_spdif.h"
+	"func_hearaid.h"
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_bt.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_bt_hid.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_bt_dut.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_clock.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_idle.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_music.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_usbdev.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_aux.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_speaker.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\sfunc_record.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\sfunc_record_play.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_lowpwr.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_fmam_freq.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_update.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_spdif.h
+
+1638412565 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp.h
+	"bsp_sys.h"
+	"bsp_key.h"
+	"bsp_dac.h"
+	"bsp_param.h"
+	"bsp_ir.h"
+	"bsp_audio.h"
+	"bsp_music.h"
+	"bsp_led.h"
+	"bsp_fs.h"
+	"bsp_bt.h"
+	"bsp_eq.h"
+	"bsp_charge.h"
+	"bsp_piano.h"
+	"bsp_id3_tag.h"
+	"bsp_record.h"
+	"bsp_aux.h"
+	"bsp_i2c.h"
+	"bsp_karaok.h"
+	"bsp_lrc.h"
+	"bsp_ble.h"
+	"bsp_tkey.h"
+	"bsp_anc.h"
+	"bsp_vusb_uart.h"
+	"bsp_smart_vhouse.h"
+	"bsp_iodm.h"
+	"bsp_tws_sync.h"
+	"bsp_uart.h"
+	"bsp_fot.h"
+	"bsp_tbox_qtest.h"
+	"bsp_iis_ext.h"
+	"bsp_hearaid.h"
+
+1638870587 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_sys.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_key.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_dac.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_param.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_ir.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_audio.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_music.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_led.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_fs.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_bt.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_eq.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_charge.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_piano.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_id3_tag.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_record.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_aux.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_i2c.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_karaok.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_lrc.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_ble.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_tkey.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_anc.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_vusb_uart.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_smart_vhouse.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_iodm.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_tws_sync.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_uart.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_fot.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_tbox_qtest.h
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_iis_ext.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\gui\gui.h
+	"ledseg/ledseg_common.h"
+	"ledseg/display_ledseg.h"
+	"lcd/lcd.h"
+	"lcd/display_lcd.h"
+	"lcd/display_listbox.h"
+	"lcd/list_view.h"
+	"lcd/listbox.h"
+	"lcd/dialogbox.h"
+	"lcd/display_dialogbox.h"
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\gui\ledseg\ledseg_common.h
+
+1638411070 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\display\ledseg\display_ledseg.h
+	"ledseg/ledseg_7p7s.h"
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\gui\ledseg\ledseg_7p7s.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\gui\lcd\lcd.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\gui\lcd\list_view.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\gui\lcd\listbox.h
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\gui\lcd\dialogbox.h
+
+1638411070 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\plugin\plugin.h
+	"multi_lang.h"
+	"port_pwm.h"
+	"port_linein.h"
+	"port_led.h"
+	"port_sd.h"
+	"port_earphone.h"
+	"port_mic.h"
+	"port_tkey.h"
+	"bt_call.h"
+
+1638411070 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\plugin\multi_lang.h
+
+1638411070 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_pwm.h
+
+1638411070 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_linein.h
+
+1638411070 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_led.h
+
+1638411070 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_sd.h
+
+1638411070 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_earphone.h
+
+1638411070 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_mic.h
+
+1638411070 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_tkey.h
+
+1638411070 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\plugin\bt_call.h
+
+1638411070 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\res.h
+
+1638411070 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\res2.h
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\3rd-party\i2s\wm8978.c
+	"include.h"
+	"bsp_i2c.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\3rd-party\sensor\sc7a20.c
+	"include.h"
+	"sc7a20.h"
+
+1638413730 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_anc.c
+	"include.h"
+
+1642390356 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_audio.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_aux.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_bt.c
+	"include.h"
+	"api.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_charge.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_cm.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_dac.c
+	"include.h"
+	"bsp_dac.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_eq.c
+	"include.h"
+	"bsp_eq.h"
+	"bsp_anc.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_fot.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_fs.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_i2c.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_i2s.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_iap.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_id3_tag.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_iis_ext.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_iodm.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_ir.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_karaok.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_key.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_led.c
+	"include.h"
+	"bsp_led.h"
+
+1638933843 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_music.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_param.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_piano.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_record.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_smart_vhouse.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_spiflash1.c
+	"include.h"
+	"bsp_spiflash1.h"
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_spiflash1.h
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_spiflash1_music_bin.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_spp.c
+	"include.h"
+
+1638931127 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_sys.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_tbox_qtest.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_tkey.c
+	"include.h"
+	"api.h"
+
+1638933934 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_tws_sync.c
+	"include.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_uart.c
+	"include.h"
+	"api.h"
+
+1638411068 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_vusb_uart.c
+	"include.h"
+
+1638869959 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func.c
+	"include.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_aux.c
+	"include.h"
+	"func.h"
+	"func_aux.h"
+
+1639014766 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_bt.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_bt_dut.c
+	"include.h"
+	"func.h"
+	"api.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_bt_hid.c
+	"include.h"
+	"func.h"
+	"func_bt_hid.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_clock.c
+	"include.h"
+	"func.h"
+	"func_clock.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_exspiflash_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+	"func_exspiflash_music.h"
+	"api_spiflash_ex.h"
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_exspiflash_music.h
+	"bsp_spiflash1.h"
+	"api_spiflash_ex.h"
+
+1638411068 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\api_spiflash_ex.h
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_fmam_freq.c
+	"include.h"
+	"func.h"
+	"func_fmam_freq.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_lowpwr.c
+	"include.h"
+	"func.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_spdif.c
+	"include.h"
+	"func.h"
+
+1638870475 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_speaker.c
+	"include.h"
+	"func.h"
+	"func_speaker.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_update.c
+	"include.h"
+	"func.h"
+	"func_update.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_usbdev.c
+	"include.h"
+	"func.h"
+	"func_usbdev.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\sfunc_bt_call.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\sfunc_bt_ota.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\sfunc_bt_ring.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\sfunc_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+	"bsp_spiflash1.h"
+	"api_spiflash_ex.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\sfunc_record_play.c
+	"include.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\gui\gui.c
+	"include.h"
+	"gui.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\gui\ledseg\ledseg_7p7s.c
+	"include.h"
+	"ledseg_common.h"
+	"ledseg_7p7s.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\gui\ledseg\ledseg_common.c
+	"include.h"
+	"ledseg_common.h"
+	"ledseg_7p7s.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\modules\ble\ab_link\app.c
+	"include.h"
+	"ab_link.h"
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\modules\ble\ab_link\ab_link.h
+	"include.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\modules\ble\adv0.c
+	"include.h"
+	"bsp_ble.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\modules\ble\ble.c
+	"include.h"
+	"bsp_ble.h"
+	"ab_link/ab_link.h"
+	"../gfps/gfps.h"
+
+1638411069 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\modules\gfps\gfps.h
+	"include.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\modules\bt\a2dp.c
+	"include.h"
+	"api.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\modules\bt\bt.c
+	"include.h"
+	"api.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\modules\bt\hfhs.c
+	"include.h"
+	"api.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\modules\bt\hid.c
+	"include.h"
+	"api.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\modules\bt\profile.c
+	"include.h"
+	"api.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\modules\bt\spp.c
+	"include.h"
+	"api.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\modules\bt\tws.c
+	"include.h"
+	"api.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\modules\gfps\gfps.c
+	"include.h"
+	"gfps.h"
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\modules\gfps\gfps_util.c
+	"include.h"
+
+1638869993 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\config.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\display\display_aux.c
+	"include.h"
+	"func.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\display\display_bt.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\display\display_clock.c
+	"include.h"
+	"func.h"
+	"func_clock.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\display\display_fmam_freq.c
+	"include.h"
+	"func.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\display\display_fmrx.c
+	"include.h"
+	"func.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\display\display_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\display\display_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\display\display_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\display\display_spdif.c
+	"include.h"
+	"func.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\display\display_speaker.c
+	"include.h"
+	"func.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\display\display_usbdev.c
+	"include.h"
+	"func.h"
+	"func_usbdev.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\display\ledseg\display_ledseg.c
+	"include.h"
+	"ledseg/display_ledseg.h"
+
+1644300403 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\main.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\message\msg_aux.c
+	"include.h"
+	"func.h"
+	"bsp_karaok.h"
+
+1638427104 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\message\msg_bt.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\message\msg_clock.c
+	"include.h"
+	"func.h"
+	"func_clock.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\message\msg_exspiflash_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+	"func_exspiflash_music.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\message\msg_fmam_freq.c
+	"include.h"
+	"func.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\message\msg_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\message\msg_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\message\msg_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\message\msg_spdif.c
+	"include.h"
+	"func.h"
+	"func_spdif.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\message\msg_speaker.c
+	"include.h"
+	"func.h"
+	"bsp_spiflash1.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\message\msg_usbdev.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\output\bin\app.xm
+	"config.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\output\bin\download.xm
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\output\bin\res.xm
+
+1638411069 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\output\bin\xcfg.xm
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\plugin\bt_call.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\plugin\eq_table.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\plugin\multi_lang.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\plugin\plugin.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_earphone.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_ir.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_key.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_led.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_ledseg.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_linein.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_mic.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_mute.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_pwm.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_sd.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_sd1.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_tkey.c
+	"include.h"
+
+1638411070 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\port\port_update.c
+	"include.h"
+
+1639013446 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\ram.ld
+	"config.h"
+
+1638412185 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\libs\strong_symbol.c
+	"include.h"
+
+1646046305 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_hearaid.h
+
+1644460019 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\bsp\bsp_hearaid.c
+	"include.h"
+
+1638933122 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_hearaid.c
+	"include.h"
+	"func.h"
+	"func_hearaid.h"
+
+1638869790 d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\platform\functions\func_hearaid.h
+
+1638870458 source:d:\users\tom\bt8920a2\sdk\branches\customs\ps_aidi\app\projects\earphone\message\msg_hearaid.c
+	"include.h"
+	"func.h"
+	"bsp_spiflash1.h"
+
+1644282542 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\agc\agc.c
+	<math.h>
+	"agc.h"
+	"func_aids_algorithm.h"
+	"Algorithm_Math_Port.h"
+	"include.h"
+
+1644282542 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\agc\agc.h
+	<stdint.h>
+
+1646381305 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\app\func_aids_algorithm.h
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"typedef.h"
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\header\typedef.h
+
+1646183550 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\math\algorithm_math_port.h
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	"arm_math.h"
+	"api_math.h"
+
+1646287929 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_math.h
+	"macro.h"
+	"typedef.h"
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\header\macro.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\header\include.h
+	"global.h"
+	"xcfg.h"
+	"config.h"
+	"io_def.h"
+	"api.h"
+	"../3rd-party/3rd_part.h"
+	"func.h"
+	"bsp.h"
+	"gui.h"
+	"plugin.h"
+	"res.h"
+	"res2.h"
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\header\global.h
+	<stddef.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"typedef.h"
+	"macro.h"
+	"clib.h"
+	"sfr.h"
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\header\clib.h
+
+1638867647 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\header\sfr.h
+
+1646288319 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\xcfg.h
+
+1646384716 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\config.h
+	"config_define.h"
+	"config_extra.h"
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\header\config_define.h
+
+1638868187 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\header\config_extra.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\header\io_def.h
+	"global.h"
+	"config.h"
+	"sfr.h"
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api.h
+	"api_btstack.h"
+	"api_cm.h"
+	"api_music.h"
+	"api_sd.h"
+	"api_rtc.h"
+	"api_usb.h"
+	"api_fs.h"
+	"api_device.h"
+	"api_sdadc.h"
+	"api_update.h"
+	"api_dac.h"
+	"api_sysclk.h"
+	"api_msg.h"
+	"api_saradc.h"
+	"api_fmrx.h"
+	"api_sys.h"
+	"api_pwr.h"
+	"api_key.h"
+	"api_gpio.h"
+	"api_uart.h"
+	"api_karaok.h"
+	"api_fmtx.h"
+	"api_math.h"
+	"api_tkey.h"
+	"api_nr.h"
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_btstack.h
+
+1641972696 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_cm.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_music.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_sd.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_rtc.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_usb.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_fs.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_device.h
+
+1638413730 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_sdadc.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_update.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_dac.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_sysclk.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_msg.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_saradc.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_fmrx.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_sys.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_pwr.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_key.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_gpio.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_uart.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_karaok.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_fmtx.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_tkey.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_nr.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\3rd-party\3rd_part.h
+	".\sensor\sensor.h"
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\3rd-party\sensor\sensor.h
+	"include.h"
+	"..\..\platform\3rd-party\sensor\sc7a20.h"
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\3rd-party\sensor\sc7a20.h
+
+1646287999 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func.h
+	"func_bt.h"
+	"func_bt_hid.h"
+	"func_bt_dut.h"
+	"func_clock.h"
+	"func_idle.h"
+	"func_music.h"
+	"func_usbdev.h"
+	"func_aux.h"
+	"func_speaker.h"
+	"sfunc_record.h"
+	"sfunc_record_play.h"
+	"func_lowpwr.h"
+	"func_fmam_freq.h"
+	"func_update.h"
+	"func_spdif.h"
+	"func_hearaid.h"
+	"func_ble_aids.h"
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_bt.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_bt_hid.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_bt_dut.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_clock.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_idle.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_music.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_usbdev.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_aux.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_speaker.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\sfunc_record.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\sfunc_record_play.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_lowpwr.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_fmam_freq.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_update.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_spdif.h
+
+1638869790 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_hearaid.h
+
+1645672379 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\app\func_ble_aids.h
+	<stdint.h>
+	<stdbool.h>
+	"typedef.h"
+
+1638412565 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp.h
+	"bsp_sys.h"
+	"bsp_key.h"
+	"bsp_dac.h"
+	"bsp_param.h"
+	"bsp_ir.h"
+	"bsp_audio.h"
+	"bsp_music.h"
+	"bsp_led.h"
+	"bsp_fs.h"
+	"bsp_bt.h"
+	"bsp_eq.h"
+	"bsp_charge.h"
+	"bsp_piano.h"
+	"bsp_id3_tag.h"
+	"bsp_record.h"
+	"bsp_aux.h"
+	"bsp_i2c.h"
+	"bsp_karaok.h"
+	"bsp_lrc.h"
+	"bsp_ble.h"
+	"bsp_tkey.h"
+	"bsp_anc.h"
+	"bsp_vusb_uart.h"
+	"bsp_smart_vhouse.h"
+	"bsp_iodm.h"
+	"bsp_tws_sync.h"
+	"bsp_uart.h"
+	"bsp_fot.h"
+	"bsp_tbox_qtest.h"
+	"bsp_iis_ext.h"
+	"bsp_hearaid.h"
+
+1638870587 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_sys.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_key.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_dac.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_param.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_ir.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_audio.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_music.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_led.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_fs.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_bt.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_eq.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_charge.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_piano.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_id3_tag.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_record.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_aux.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_i2c.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_karaok.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_lrc.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_ble.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_tkey.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_anc.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_vusb_uart.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_smart_vhouse.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_iodm.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_tws_sync.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_uart.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_fot.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_tbox_qtest.h
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_iis_ext.h
+
+1646382270 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_hearaid.h
+	"api_sdadc.h"
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\gui\gui.h
+	"ledseg/ledseg_common.h"
+	"ledseg/display_ledseg.h"
+	"lcd/lcd.h"
+	"lcd/display_lcd.h"
+	"lcd/display_listbox.h"
+	"lcd/list_view.h"
+	"lcd/listbox.h"
+	"lcd/dialogbox.h"
+	"lcd/display_dialogbox.h"
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\gui\ledseg\ledseg_common.h
+
+1638411070 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\display\ledseg\display_ledseg.h
+	"ledseg/ledseg_7p7s.h"
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\gui\ledseg\ledseg_7p7s.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\gui\lcd\lcd.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\gui\lcd\list_view.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\gui\lcd\listbox.h
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\gui\lcd\dialogbox.h
+
+1638411070 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\plugin\plugin.h
+	"multi_lang.h"
+	"port_pwm.h"
+	"port_linein.h"
+	"port_led.h"
+	"port_sd.h"
+	"port_earphone.h"
+	"port_mic.h"
+	"port_tkey.h"
+	"bt_call.h"
+
+1638411070 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\plugin\multi_lang.h
+
+1638411070 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_pwm.h
+
+1638411070 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_linein.h
+
+1638411070 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_led.h
+
+1638411070 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_sd.h
+
+1638411070 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_earphone.h
+
+1638411070 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_mic.h
+
+1638411070 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_tkey.h
+
+1638411070 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\plugin\bt_call.h
+
+1646359846 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\res.h
+
+1638411070 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\res2.h
+
+1646375482 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\denoise\denoise.c
+	<math.h>
+	"denoise.h"
+	"func_aids_algorithm.h"
+	"Algorithm_Math_Port.h"
+	"printf.h"
+	"typedef.h"
+	"macro.h"
+
+1641900114 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\denoise\denoise.h
+	<stdint.h>
+
+1638164195 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\utilities\printf.h
+	<stdarg.h>
+	<stddef.h>
+
+1644288818 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\eq\eq.c
+	"eq.h"
+	"func_aids_algorithm.h"
+	"Algorithm_Math_Port.h"
+	"printf.h"
+
+1644282542 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\eq\eq.h
+	<stdint.h>
+
+1644288103 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\fir\fir.c
+	<math.h>
+	"fir.h"
+	"func_aids_algorithm.h"
+	"Algorithm_Math_Port.h"
+	"printf.h"
+
+1643276752 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\fir\fir.h
+	<stdint.h>
+
+1640056138 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\math\algorithm_math_cfft_radix8byx_f32.c
+	"Algorithm_Math_cfft_radix8byX_f32.h"
+
+1638168947 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\math\algorithm_math_cfft_radix8byx_f32.h
+	<stdint.h>
+	"Algorithm_Math_Port.h"
+
+1646183559 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\math\algorithm_math_convolution.c
+	"Algorithm_Math_Port.h"
+
+1646097120 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\math\algorithm_math_port.c
+	<math.h>
+	"Algorithm_Math_Port.h"
+	"Algorithm_Math_cfft_radix8byX_f32.h"
+	"Algorithm_Math_rfft_fast_f32.h"
+	"api_math.h"
+
+1638178608 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\math\algorithm_math_rfft_fast_f32.h
+	<stdint.h>
+	"Algorithm_Math_Port.h"
+
+1640053683 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\math\algorithm_math_rfft_fast_f32.c
+	"Algorithm_Math_rfft_fast_f32.h"
+	"Algorithm_Math_cfft_radix8byX_f32.h"
+
+1645753617 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\math\algorithm_math_window.c
+	<Algorithm_Math_Port.h>
+	"Algorithm_Math_Window.h"
+
+1645753694 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\math\algorithm_math_window.h
+	<stdint.h>
+	"func_aids_algorithm.h"
+
+1642057659 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\vc\vc.c
+	"vc.h"
+	"func_aids_algorithm.h"
+	"Algorithm_Math_Port.h"
+	"printf.h"
+
+1640748391 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\vc\vc.h
+	<stdint.h>
+
+1644287897 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\wdrc\wdrc.c
+	<math.h>
+	"wdrc.h"
+	"func_aids_algorithm.h"
+	"Algorithm_Math_Port.h"
+	"printf.h"
+
+1644282542 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\algorithm\wdrc\wdrc.h
+	<stdint.h>
+
+1646381809 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\app\func_aids_algorithm.c
+	<math.h>
+	"func_aids_algorithm.h"
+	"denoise.h"
+	"fir.h"
+	"agc.h"
+	"wdrc.h"
+	"eq.h"
+	"vc.h"
+	"Algorithm_Math_Port.h"
+	"Algorithm_Math_Window.h"
+	"typedef.h"
+	"macro.h"
+	"sfr_bt892x.h"
+	"include.h"
+	"printf.h"
+
+1646384151 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\app\func_ble_aids.c
+	"func_ble_aids.h"
+	"func_crc_aids.h"
+	"bsp_ble.h"
+	"include.h"
+	"func_aids_algorithm.h"
+	"CircularQueue.h"
+	"printf.h"
+
+1638951223 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\app\func_crc_aids.h
+	<stdint.h>
+	<stdbool.h>
+
+1646294807 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\utilities\circularqueue.h
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+
+1641952383 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\app\func_crc_aids.c
+	"func_crc_aids.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\3rd-party\i2s\ta5711.c
+	"include.h"
+	"bsp_i2c.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\3rd-party\i2s\wm8978.c
+	"include.h"
+	"bsp_i2c.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\3rd-party\sensor\sc7a20.c
+	"include.h"
+	"sc7a20.h"
+
+1638413730 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_anc.c
+	"include.h"
+
+1646288121 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_audio.c
+	"include.h"
+	"func_aids_algorithm.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_aux.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_bt.c
+	"include.h"
+	"api.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_charge.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_cm.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_dac.c
+	"include.h"
+	"bsp_dac.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_eq.c
+	"include.h"
+	"bsp_eq.h"
+	"bsp_anc.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_fot.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_fs.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_i2c.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_i2s.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_iap.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_id3_tag.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_iis_ext.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_iodm.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_ir.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_karaok.c
+	"include.h"
+
+1646288074 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_key.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_led.c
+	"include.h"
+	"bsp_led.h"
+
+1638933843 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_music.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_param.c
+	"include.h"
+
+1646288064 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_piano.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_record.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_smart_vhouse.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_spiflash1.c
+	"include.h"
+	"bsp_spiflash1.h"
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_spiflash1.h
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_spiflash1_music_bin.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_spp.c
+	"include.h"
+
+1646288039 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_sys.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_tbox_qtest.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_tkey.c
+	"include.h"
+	"api.h"
+
+1638933934 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_tws_sync.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_uart.c
+	"include.h"
+	"api.h"
+
+1638411068 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_vusb_uart.c
+	"include.h"
+
+1646288018 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func.c
+	"include.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_aux.c
+	"include.h"
+	"func.h"
+	"func_aux.h"
+
+1646287990 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_bt.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_bt_dut.c
+	"include.h"
+	"func.h"
+	"api.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_bt_hid.c
+	"include.h"
+	"func.h"
+	"func_bt_hid.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_clock.c
+	"include.h"
+	"func.h"
+	"func_clock.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_exspiflash_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+	"func_exspiflash_music.h"
+	"api_spiflash_ex.h"
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_exspiflash_music.h
+	"bsp_spiflash1.h"
+	"api_spiflash_ex.h"
+
+1638411068 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\api_spiflash_ex.h
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_fmam_freq.c
+	"include.h"
+	"func.h"
+	"func_fmam_freq.h"
+
+1646384467 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_hearaid.c
+	"include.h"
+	"func.h"
+	"func_hearaid.h"
+	"func_ble_aids.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_lowpwr.c
+	"include.h"
+	"func.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_spdif.c
+	"include.h"
+	"func.h"
+
+1638870475 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_speaker.c
+	"include.h"
+	"func.h"
+	"func_speaker.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_update.c
+	"include.h"
+	"func.h"
+	"func_update.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\func_usbdev.c
+	"include.h"
+	"func.h"
+	"func_usbdev.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\sfunc_bt_call.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\sfunc_bt_ota.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\sfunc_bt_ring.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\sfunc_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+	"bsp_spiflash1.h"
+	"api_spiflash_ex.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\functions\sfunc_record_play.c
+	"include.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\gui\gui.c
+	"include.h"
+	"gui.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\gui\ledseg\ledseg_7p7s.c
+	"include.h"
+	"ledseg_common.h"
+	"ledseg_7p7s.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\gui\ledseg\ledseg_common.c
+	"include.h"
+	"ledseg_common.h"
+	"ledseg_7p7s.h"
+
+1638412185 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\libs\strong_symbol.c
+	"include.h"
+
+1646358787 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\modules\ble\ab_link\app.c
+	"include.h"
+	"ab_link.h"
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\modules\ble\ab_link\ab_link.h
+	"include.h"
+
+1646287893 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\modules\ble\adv0.c
+	"include.h"
+	"bsp_ble.h"
+
+1646296650 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\modules\ble\ble.c
+	"include.h"
+	"bsp_ble.h"
+	"ab_link/ab_link.h"
+	"../gfps/gfps.h"
+
+1638411069 c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\modules\gfps\gfps.h
+	"include.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\modules\bt\a2dp.c
+	"include.h"
+	"api.h"
+
+1646287856 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\modules\bt\bt.c
+	"include.h"
+	"api.h"
+
+1646287851 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\modules\bt\hfhs.c
+	"include.h"
+	"api.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\modules\bt\hid.c
+	"include.h"
+	"api.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\modules\bt\profile.c
+	"include.h"
+	"api.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\modules\bt\spp.c
+	"include.h"
+	"api.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\modules\bt\tws.c
+	"include.h"
+	"api.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\modules\gfps\gfps.c
+	"include.h"
+	"gfps.h"
+
+1638411069 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\modules\gfps\gfps_util.c
+	"include.h"
+
+1640839230 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\utilities\audio_export.c
+	"func_aids_algorithm.h"
+	"sfr_bt892x.h"
+	"include.h"
+	"printf.h"
+
+1646294467 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\utilities\circularqueue.c
+	"typedef.h"
+	"macro.h"
+	"CircularQueue.h"
+	<sys/types.h>
+
+1638163326 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\utilities\printf.c
+	<stdbool.h>
+	<stdint.h>
+	"printf.h"
+	"printf_config.h"
+	<float.h>
+
+1638869993 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\config.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\display\display_aux.c
+	"include.h"
+	"func.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\display\display_bt.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\display\display_clock.c
+	"include.h"
+	"func.h"
+	"func_clock.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\display\display_fmam_freq.c
+	"include.h"
+	"func.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\display\display_fmrx.c
+	"include.h"
+	"func.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\display\display_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\display\display_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\display\display_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\display\display_spdif.c
+	"include.h"
+	"func.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\display\display_speaker.c
+	"include.h"
+	"func.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\display\display_usbdev.c
+	"include.h"
+	"func.h"
+	"func_usbdev.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\display\ledseg\display_ledseg.c
+	"include.h"
+	"ledseg/display_ledseg.h"
+
+1646287560 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\main.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\message\msg_aux.c
+	"include.h"
+	"func.h"
+	"bsp_karaok.h"
+
+1638427104 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\message\msg_bt.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\message\msg_clock.c
+	"include.h"
+	"func.h"
+	"func_clock.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\message\msg_exspiflash_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+	"func_exspiflash_music.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\message\msg_fmam_freq.c
+	"include.h"
+	"func.h"
+
+1646381080 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\message\msg_hearaid.c
+	"include.h"
+	"func.h"
+	"bsp_spiflash1.h"
+	"func_aids_algorithm.h"
+	"bsp_param.h"
+	"func_ble_aids.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\message\msg_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\message\msg_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\message\msg_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\message\msg_spdif.c
+	"include.h"
+	"func.h"
+	"func_spdif.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\message\msg_speaker.c
+	"include.h"
+	"func.h"
+	"bsp_spiflash1.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\message\msg_usbdev.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\output\bin\app.xm
+	"config.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\output\bin\download.xm
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\output\bin\res.xm
+
+1646287770 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\output\bin\xcfg.xm
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\plugin\bt_call.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\plugin\eq_table.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\plugin\multi_lang.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\plugin\plugin.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_earphone.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_ir.c
+	"include.h"
+
+1646287810 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_key.c
+	"include.h"
+
+1646287803 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_led.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_ledseg.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_linein.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_mic.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_mute.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_pwm.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_sd.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_sd1.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_tkey.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\port\port_update.c
+	"include.h"
+
+1646358685 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\projects\earphone\ram.ld
+	"config.h"
+
+1646384219 source:c:\users\dell2\desktop\bb_sdk_bt892xa2_aidi_s3737_20220303\app\platform\bsp\bsp_hearaid.c
+	"include.h"
+	"func_aids_algorithm.h"
+	"func_crc_aids.h"
+
+1641952383 source:c:\users\dell2\desktop\app\app\func_crc_aids.c
+	"func_crc_aids.h"
+
+1638951223 c:\users\dell2\desktop\app\app\func_crc_aids.h
+	<stdint.h>
+	<stdbool.h>
+
+1638411069 source:c:\users\dell2\desktop\app\platform\3rd-party\i2s\ta5711.c
+	"include.h"
+	"bsp_i2c.h"
+
+1638411068 c:\users\dell2\desktop\app\platform\header\include.h
+	"global.h"
+	"xcfg.h"
+	"config.h"
+	"io_def.h"
+	"api.h"
+	"../3rd-party/3rd_part.h"
+	"func.h"
+	"bsp.h"
+	"gui.h"
+	"plugin.h"
+	"res.h"
+	"res2.h"
+
+1638411068 c:\users\dell2\desktop\app\platform\header\global.h
+	<stddef.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"typedef.h"
+	"macro.h"
+	"clib.h"
+	"sfr.h"
+
+1638411068 c:\users\dell2\desktop\app\platform\header\typedef.h
+
+1638411068 c:\users\dell2\desktop\app\platform\header\macro.h
+
+1638411068 c:\users\dell2\desktop\app\platform\header\clib.h
+
+1638867647 c:\users\dell2\desktop\app\platform\header\sfr.h
+
+1649923417 c:\users\dell2\desktop\app\projects\earphone\xcfg.h
+
+1651219888 c:\users\dell2\desktop\app\projects\earphone\config.h
+	"config_define.h"
+	"config_extra.h"
+
+1638411068 c:\users\dell2\desktop\app\platform\header\config_define.h
+
+1647754840 c:\users\dell2\desktop\app\platform\header\config_extra.h
+
+1638411068 c:\users\dell2\desktop\app\platform\header\io_def.h
+	"global.h"
+	"config.h"
+	"sfr.h"
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api.h
+	"api_btstack.h"
+	"api_cm.h"
+	"api_music.h"
+	"api_sd.h"
+	"api_rtc.h"
+	"api_usb.h"
+	"api_fs.h"
+	"api_device.h"
+	"api_sdadc.h"
+	"api_update.h"
+	"api_dac.h"
+	"api_sysclk.h"
+	"api_msg.h"
+	"api_saradc.h"
+	"api_fmrx.h"
+	"api_sys.h"
+	"api_pwr.h"
+	"api_key.h"
+	"api_gpio.h"
+	"api_uart.h"
+	"api_karaok.h"
+	"api_fmtx.h"
+	"api_math.h"
+	"api_tkey.h"
+	"api_nr.h"
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_btstack.h
+
+1641972696 c:\users\dell2\desktop\app\platform\libs\api_cm.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_music.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_sd.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_rtc.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_usb.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_fs.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_device.h
+
+1638413730 c:\users\dell2\desktop\app\platform\libs\api_sdadc.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_update.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_dac.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_sysclk.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_msg.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_saradc.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_fmrx.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_sys.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_pwr.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_key.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_gpio.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_uart.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_karaok.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_fmtx.h
+
+1646287929 c:\users\dell2\desktop\app\platform\libs\api_math.h
+	"macro.h"
+	"typedef.h"
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_tkey.h
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_nr.h
+
+1638411069 c:\users\dell2\desktop\app\platform\3rd-party\3rd_part.h
+	".\sensor\sensor.h"
+
+1638411069 c:\users\dell2\desktop\app\platform\3rd-party\sensor\sensor.h
+	"include.h"
+	"..\..\platform\3rd-party\sensor\sc7a20.h"
+
+1638411069 c:\users\dell2\desktop\app\platform\3rd-party\sensor\sc7a20.h
+
+1646287999 c:\users\dell2\desktop\app\platform\functions\func.h
+	"func_bt.h"
+	"func_bt_hid.h"
+	"func_bt_dut.h"
+	"func_clock.h"
+	"func_idle.h"
+	"func_music.h"
+	"func_usbdev.h"
+	"func_aux.h"
+	"func_speaker.h"
+	"sfunc_record.h"
+	"sfunc_record_play.h"
+	"func_lowpwr.h"
+	"func_fmam_freq.h"
+	"func_update.h"
+	"func_spdif.h"
+	"func_hearaid.h"
+	"func_ble_aids.h"
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\func_bt.h
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\func_bt_hid.h
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\func_bt_dut.h
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\func_clock.h
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\func_idle.h
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\func_music.h
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\func_usbdev.h
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\func_aux.h
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\func_speaker.h
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\sfunc_record.h
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\sfunc_record_play.h
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\func_lowpwr.h
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\func_fmam_freq.h
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\func_update.h
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\func_spdif.h
+
+1638869790 c:\users\dell2\desktop\app\platform\functions\func_hearaid.h
+
+1645672379 c:\users\dell2\desktop\app\app\func_ble_aids.h
+	<stdint.h>
+	<stdbool.h>
+	"typedef.h"
+
+1638412565 c:\users\dell2\desktop\app\platform\bsp\bsp.h
+	"bsp_sys.h"
+	"bsp_key.h"
+	"bsp_dac.h"
+	"bsp_param.h"
+	"bsp_ir.h"
+	"bsp_audio.h"
+	"bsp_music.h"
+	"bsp_led.h"
+	"bsp_fs.h"
+	"bsp_bt.h"
+	"bsp_eq.h"
+	"bsp_charge.h"
+	"bsp_piano.h"
+	"bsp_id3_tag.h"
+	"bsp_record.h"
+	"bsp_aux.h"
+	"bsp_i2c.h"
+	"bsp_karaok.h"
+	"bsp_lrc.h"
+	"bsp_ble.h"
+	"bsp_tkey.h"
+	"bsp_anc.h"
+	"bsp_vusb_uart.h"
+	"bsp_smart_vhouse.h"
+	"bsp_iodm.h"
+	"bsp_tws_sync.h"
+	"bsp_uart.h"
+	"bsp_fot.h"
+	"bsp_tbox_qtest.h"
+	"bsp_iis_ext.h"
+	"bsp_hearaid.h"
+
+1638870587 c:\users\dell2\desktop\app\platform\bsp\bsp_sys.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_key.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_dac.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_param.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_ir.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_audio.h
+
+1650357355 c:\users\dell2\desktop\app\platform\bsp\bsp_music.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_led.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_fs.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_bt.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_eq.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_charge.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_piano.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_id3_tag.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_record.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_aux.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_i2c.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_karaok.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_lrc.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_ble.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_tkey.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_anc.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_vusb_uart.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_smart_vhouse.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_iodm.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_tws_sync.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_uart.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_fot.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_tbox_qtest.h
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_iis_ext.h
+
+1646880705 c:\users\dell2\desktop\app\platform\bsp\bsp_hearaid.h
+	"api_sdadc.h"
+
+1638411069 c:\users\dell2\desktop\app\platform\gui\gui.h
+	"ledseg/ledseg_common.h"
+	"ledseg/display_ledseg.h"
+	"lcd/lcd.h"
+	"lcd/display_lcd.h"
+	"lcd/display_listbox.h"
+	"lcd/list_view.h"
+	"lcd/listbox.h"
+	"lcd/dialogbox.h"
+	"lcd/display_dialogbox.h"
+
+1638411069 c:\users\dell2\desktop\app\platform\gui\ledseg\ledseg_common.h
+
+1638411070 c:\users\dell2\desktop\app\projects\earphone\display\ledseg\display_ledseg.h
+	"ledseg/ledseg_7p7s.h"
+
+1638411069 c:\users\dell2\desktop\app\platform\gui\ledseg\ledseg_7p7s.h
+
+1638411069 c:\users\dell2\desktop\app\platform\gui\lcd\lcd.h
+
+1638411069 c:\users\dell2\desktop\app\platform\gui\lcd\list_view.h
+
+1638411069 c:\users\dell2\desktop\app\platform\gui\lcd\listbox.h
+
+1638411069 c:\users\dell2\desktop\app\platform\gui\lcd\dialogbox.h
+
+1638411070 c:\users\dell2\desktop\app\projects\earphone\plugin\plugin.h
+	"multi_lang.h"
+	"port_pwm.h"
+	"port_linein.h"
+	"port_led.h"
+	"port_sd.h"
+	"port_earphone.h"
+	"port_mic.h"
+	"port_tkey.h"
+	"bt_call.h"
+
+1650357836 c:\users\dell2\desktop\app\projects\earphone\plugin\multi_lang.h
+	"res.h"
+
+1638411070 c:\users\dell2\desktop\app\projects\earphone\port\port_pwm.h
+
+1638411070 c:\users\dell2\desktop\app\projects\earphone\port\port_linein.h
+
+1638411070 c:\users\dell2\desktop\app\projects\earphone\port\port_led.h
+
+1638411070 c:\users\dell2\desktop\app\projects\earphone\port\port_sd.h
+
+1638411070 c:\users\dell2\desktop\app\projects\earphone\port\port_earphone.h
+
+1638411070 c:\users\dell2\desktop\app\projects\earphone\port\port_mic.h
+
+1638411070 c:\users\dell2\desktop\app\projects\earphone\port\port_tkey.h
+
+1638411070 c:\users\dell2\desktop\app\projects\earphone\plugin\bt_call.h
+
+1650358097 c:\users\dell2\desktop\app\projects\earphone\res.h
+
+1638411070 c:\users\dell2\desktop\app\projects\earphone\res2.h
+
+1638411069 source:c:\users\dell2\desktop\app\platform\3rd-party\i2s\wm8978.c
+	"include.h"
+	"bsp_i2c.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\3rd-party\sensor\sc7a20.c
+	"include.h"
+	"sc7a20.h"
+
+1638413730 source:c:\users\dell2\desktop\app\platform\bsp\bsp_anc.c
+	"include.h"
+
+1647843201 source:c:\users\dell2\desktop\app\platform\bsp\bsp_audio.c
+	"include.h"
+	"func_aids_algorithm.h"
+
+1651219227 c:\users\dell2\desktop\app\app\func_aids_algorithm.h
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"typedef.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_aux.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_bt.c
+	"include.h"
+	"api.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_charge.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_cm.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_dac.c
+	"include.h"
+	"bsp_dac.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_eq.c
+	"include.h"
+	"bsp_eq.h"
+	"bsp_anc.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_fot.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_fs.c
+	"include.h"
+
+1651212720 source:c:\users\dell2\desktop\app\platform\bsp\bsp_hearaid.c
+	"include.h"
+	"func_aids_algorithm.h"
+	"func_crc_aids.h"
+	"printf.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_i2c.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_i2s.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_iap.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_id3_tag.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_iis_ext.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_iodm.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_ir.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_karaok.c
+	"include.h"
+
+1647246388 source:c:\users\dell2\desktop\app\platform\bsp\bsp_key.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_led.c
+	"include.h"
+	"bsp_led.h"
+
+1638933843 source:c:\users\dell2\desktop\app\platform\bsp\bsp_music.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_param.c
+	"include.h"
+
+1646288064 source:c:\users\dell2\desktop\app\platform\bsp\bsp_piano.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_record.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_smart_vhouse.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_spiflash1.c
+	"include.h"
+	"bsp_spiflash1.h"
+
+1638411068 c:\users\dell2\desktop\app\platform\bsp\bsp_spiflash1.h
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_spiflash1_music_bin.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_spp.c
+	"include.h"
+
+1647850243 source:c:\users\dell2\desktop\app\platform\bsp\bsp_sys.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_tbox_qtest.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_tkey.c
+	"include.h"
+	"api.h"
+
+1649919282 source:c:\users\dell2\desktop\app\platform\bsp\bsp_tws_sync.c
+	"include.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_uart.c
+	"include.h"
+	"api.h"
+
+1638411068 source:c:\users\dell2\desktop\app\platform\bsp\bsp_vusb_uart.c
+	"include.h"
+
+1650937860 source:c:\users\dell2\desktop\app\platform\functions\func.c
+	"include.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\func_aux.c
+	"include.h"
+	"func.h"
+	"func_aux.h"
+
+1646287990 source:c:\users\dell2\desktop\app\platform\functions\func_bt.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\func_bt_dut.c
+	"include.h"
+	"func.h"
+	"api.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\func_bt_hid.c
+	"include.h"
+	"func.h"
+	"func_bt_hid.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\func_clock.c
+	"include.h"
+	"func.h"
+	"func_clock.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\func_exspiflash_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+	"func_exspiflash_music.h"
+	"api_spiflash_ex.h"
+
+1638411069 c:\users\dell2\desktop\app\platform\functions\func_exspiflash_music.h
+	"bsp_spiflash1.h"
+	"api_spiflash_ex.h"
+
+1638411068 c:\users\dell2\desktop\app\platform\libs\api_spiflash_ex.h
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\func_fmam_freq.c
+	"include.h"
+	"func.h"
+	"func_fmam_freq.h"
+
+1647849029 source:c:\users\dell2\desktop\app\platform\functions\func_hearaid.c
+	"include.h"
+	"func.h"
+	"func_hearaid.h"
+	"func_ble_aids.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\func_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1650948500 source:c:\users\dell2\desktop\app\platform\functions\func_lowpwr.c
+	"include.h"
+	"func.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\func_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\func_spdif.c
+	"include.h"
+	"func.h"
+
+1638870475 source:c:\users\dell2\desktop\app\platform\functions\func_speaker.c
+	"include.h"
+	"func.h"
+	"func_speaker.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\func_update.c
+	"include.h"
+	"func.h"
+	"func_update.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\func_usbdev.c
+	"include.h"
+	"func.h"
+	"func_usbdev.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\sfunc_bt_call.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\sfunc_bt_ota.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1649919271 source:c:\users\dell2\desktop\app\platform\functions\sfunc_bt_ring.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\sfunc_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+	"bsp_spiflash1.h"
+	"api_spiflash_ex.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\functions\sfunc_record_play.c
+	"include.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\gui\gui.c
+	"include.h"
+	"gui.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\gui\ledseg\ledseg_7p7s.c
+	"include.h"
+	"ledseg_common.h"
+	"ledseg_7p7s.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\gui\ledseg\ledseg_common.c
+	"include.h"
+	"ledseg_common.h"
+	"ledseg_7p7s.h"
+
+1638412185 source:c:\users\dell2\desktop\app\platform\libs\strong_symbol.c
+	"include.h"
+
+1646358787 source:c:\users\dell2\desktop\app\platform\modules\ble\ab_link\app.c
+	"include.h"
+	"ab_link.h"
+
+1638411069 c:\users\dell2\desktop\app\platform\modules\ble\ab_link\ab_link.h
+	"include.h"
+
+1646287893 source:c:\users\dell2\desktop\app\platform\modules\ble\adv0.c
+	"include.h"
+	"bsp_ble.h"
+
+1646296650 source:c:\users\dell2\desktop\app\platform\modules\ble\ble.c
+	"include.h"
+	"bsp_ble.h"
+	"ab_link/ab_link.h"
+	"../gfps/gfps.h"
+
+1638411069 c:\users\dell2\desktop\app\platform\modules\gfps\gfps.h
+	"include.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\modules\bt\a2dp.c
+	"include.h"
+	"api.h"
+
+1646287856 source:c:\users\dell2\desktop\app\platform\modules\bt\bt.c
+	"include.h"
+	"api.h"
+
+1646287851 source:c:\users\dell2\desktop\app\platform\modules\bt\hfhs.c
+	"include.h"
+	"api.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\modules\bt\hid.c
+	"include.h"
+	"api.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\modules\bt\profile.c
+	"include.h"
+	"api.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\modules\bt\spp.c
+	"include.h"
+	"api.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\modules\bt\tws.c
+	"include.h"
+	"api.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\modules\gfps\gfps.c
+	"include.h"
+	"gfps.h"
+
+1638411069 source:c:\users\dell2\desktop\app\platform\modules\gfps\gfps_util.c
+	"include.h"
+
+1651212227 source:c:\users\dell2\desktop\app\utilities\audio_export.c
+	"func_aids_algorithm.h"
+	"sfr_bt892x.h"
+	"include.h"
+	"printf.h"
+
+1638164195 c:\users\dell2\desktop\app\utilities\printf.h
+	<stdarg.h>
+	<stddef.h>
+
+1646294467 source:c:\users\dell2\desktop\app\utilities\circularqueue.c
+	"typedef.h"
+	"macro.h"
+	"CircularQueue.h"
+	<sys/types.h>
+
+1646294807 c:\users\dell2\desktop\app\utilities\circularqueue.h
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+
+1638869993 source:c:\users\dell2\desktop\app\projects\earphone\config.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\display\display_aux.c
+	"include.h"
+	"func.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\display\display_bt.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\display\display_clock.c
+	"include.h"
+	"func.h"
+	"func_clock.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\display\display_fmam_freq.c
+	"include.h"
+	"func.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\display\display_fmrx.c
+	"include.h"
+	"func.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\display\display_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\display\display_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\display\display_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\display\display_spdif.c
+	"include.h"
+	"func.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\display\display_speaker.c
+	"include.h"
+	"func.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\display\display_usbdev.c
+	"include.h"
+	"func.h"
+	"func_usbdev.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\display\ledseg\display_ledseg.c
+	"include.h"
+	"ledseg/display_ledseg.h"
+
+1646287560 source:c:\users\dell2\desktop\app\projects\earphone\main.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\message\msg_aux.c
+	"include.h"
+	"func.h"
+	"bsp_karaok.h"
+
+1650334062 source:c:\users\dell2\desktop\app\projects\earphone\message\msg_bt.c
+	"include.h"
+	"func.h"
+	"func_bt.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\message\msg_clock.c
+	"include.h"
+	"func.h"
+	"func_clock.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\message\msg_exspiflash_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+	"func_exspiflash_music.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\message\msg_fmam_freq.c
+	"include.h"
+	"func.h"
+
+1650936671 source:c:\users\dell2\desktop\app\projects\earphone\message\msg_hearaid.c
+	"include.h"
+	"func.h"
+	"bsp_spiflash1.h"
+	"func_aids_algorithm.h"
+	"bsp_param.h"
+	"func_ble_aids.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\message\msg_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\message\msg_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\message\msg_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\message\msg_spdif.c
+	"include.h"
+	"func.h"
+	"func_spdif.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\message\msg_speaker.c
+	"include.h"
+	"func.h"
+	"bsp_spiflash1.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\message\msg_usbdev.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\output\bin\app.xm
+	"config.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\output\bin\download.xm
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\output\bin\res.xm
+
+1649924633 source:c:\users\dell2\desktop\app\projects\earphone\output\bin\xcfg.xm
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\plugin\bt_call.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\plugin\eq_table.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\plugin\multi_lang.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\plugin\plugin.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\port\port_earphone.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\port\port_ir.c
+	"include.h"
+
+1646287810 source:c:\users\dell2\desktop\app\projects\earphone\port\port_key.c
+	"include.h"
+
+1647750623 source:c:\users\dell2\desktop\app\projects\earphone\port\port_led.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\port\port_ledseg.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\port\port_linein.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\port\port_mic.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\port\port_mute.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\port\port_pwm.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\port\port_sd.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\port\port_sd1.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\port\port_tkey.c
+	"include.h"
+
+1638411070 source:c:\users\dell2\desktop\app\projects\earphone\port\port_update.c
+	"include.h"
+
+1647612021 source:c:\users\dell2\desktop\app\projects\earphone\ram.ld
+	"config.h"
+
+1650590703 source:c:\users\dell2\desktop\app\app\func_ble_aids.c
+	"func_ble_aids.h"
+	"func_crc_aids.h"
+	"bsp_ble.h"
+	"include.h"
+	"func_aids_algorithm.h"
+	"CircularQueue.h"
+	"printf.h"
+
+1651219522 source:c:\users\dell2\desktop\app\algorithm\aec\aec.c
+	"aec.h"
+	"func_aids_algorithm.h"
+	"Algorithm_Math_Port.h"
+	"include.h"
+
+1651219112 c:\users\dell2\desktop\app\algorithm\aec\aec.h
+	<stdint.h>
+
+1646183550 c:\users\dell2\desktop\app\algorithm\math\algorithm_math_port.h
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	"arm_math.h"
+	"api_math.h"
+
+1650952413 source:c:\users\dell2\desktop\app\algorithm\agc\agc.c
+	<math.h>
+	"agc.h"
+	"func_aids_algorithm.h"
+	"Algorithm_Math_Port.h"
+	"include.h"
+
+1650940494 c:\users\dell2\desktop\app\algorithm\agc\agc.h
+	<stdint.h>
+
+1651034141 source:c:\users\dell2\desktop\app\algorithm\denoise\denoise.c
+	<math.h>
+	"denoise.h"
+	"func_aids_algorithm.h"
+	"Algorithm_Math_Port.h"
+	"printf.h"
+	"typedef.h"
+	"macro.h"
+
+1650878368 c:\users\dell2\desktop\app\algorithm\denoise\denoise.h
+	<stdint.h>
+
+1651036422 source:c:\users\dell2\desktop\app\algorithm\eq\eq.c
+	"eq.h"
+	"func_aids_algorithm.h"
+	"Algorithm_Math_Port.h"
+	"printf.h"
+
+1650878405 c:\users\dell2\desktop\app\algorithm\eq\eq.h
+	<stdint.h>
+
+1647570764 source:c:\users\dell2\desktop\app\algorithm\fir\fir.c
+	<math.h>
+	"fir.h"
+	"func_aids_algorithm.h"
+	"Algorithm_Math_Port.h"
+	"printf.h"
+
+1647570718 c:\users\dell2\desktop\app\algorithm\fir\fir.h
+	<stdint.h>
+
+1640056138 source:c:\users\dell2\desktop\app\algorithm\math\algorithm_math_cfft_radix8byx_f32.c
+	"Algorithm_Math_cfft_radix8byX_f32.h"
+
+1638168947 c:\users\dell2\desktop\app\algorithm\math\algorithm_math_cfft_radix8byx_f32.h
+	<stdint.h>
+	"Algorithm_Math_Port.h"
+
+1646183559 source:c:\users\dell2\desktop\app\algorithm\math\algorithm_math_convolution.c
+	"Algorithm_Math_Port.h"
+
+1646097120 source:c:\users\dell2\desktop\app\algorithm\math\algorithm_math_port.c
+	<math.h>
+	"Algorithm_Math_Port.h"
+	"Algorithm_Math_cfft_radix8byX_f32.h"
+	"Algorithm_Math_rfft_fast_f32.h"
+	"api_math.h"
+
+1638178608 c:\users\dell2\desktop\app\algorithm\math\algorithm_math_rfft_fast_f32.h
+	<stdint.h>
+	"Algorithm_Math_Port.h"
+
+1640053683 source:c:\users\dell2\desktop\app\algorithm\math\algorithm_math_rfft_fast_f32.c
+	"Algorithm_Math_rfft_fast_f32.h"
+	"Algorithm_Math_cfft_radix8byX_f32.h"
+
+1645753617 source:c:\users\dell2\desktop\app\algorithm\math\algorithm_math_window.c
+	<Algorithm_Math_Port.h>
+	"Algorithm_Math_Window.h"
+
+1645753694 c:\users\dell2\desktop\app\algorithm\math\algorithm_math_window.h
+	<stdint.h>
+	"func_aids_algorithm.h"
+
+1650877287 source:c:\users\dell2\desktop\app\algorithm\vc\vc.c
+	"vc.h"
+	"func_aids_algorithm.h"
+	"Algorithm_Math_Port.h"
+	"printf.h"
+
+1650873933 c:\users\dell2\desktop\app\algorithm\vc\vc.h
+	<stdint.h>
+
+1651036448 source:c:\users\dell2\desktop\app\algorithm\wdrc\wdrc.c
+	<math.h>
+	"wdrc.h"
+	"func_aids_algorithm.h"
+	"Algorithm_Math_Port.h"
+	"printf.h"
+
+1650878397 c:\users\dell2\desktop\app\algorithm\wdrc\wdrc.h
+	<stdint.h>
+
+1651219329 source:c:\users\dell2\desktop\app\app\func_aids_algorithm.c
+	<math.h>
+	"func_aids_algorithm.h"
+	"denoise.h"
+	"fir.h"
+	"agc.h"
+	"wdrc.h"
+	"eq.h"
+	"vc.h"
+	"aec.h"
+	"Algorithm_Math_Port.h"
+	"Algorithm_Math_Window.h"
+	"typedef.h"
+	"macro.h"
+	"sfr_bt892x.h"
+	"include.h"
+	"printf.h"
+
+1638163326 source:c:\users\dell2\desktop\app\utilities\printf.c
+	<stdbool.h>
+	<stdint.h>
+	"printf.h"
+	"printf_config.h"
+	<float.h>
+

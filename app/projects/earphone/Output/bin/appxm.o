@@ -1,0 +1,11 @@
+depend(0x01010200);
+setflash(1, 0x100000, 1, 1, 0);
+setspace(0x6000);
+setkey(0);
+addkey(0);
+addkey(0);
+addkey(0);
+addkey(0);
+addkey(0xa364c2b4);
+make(dcf_buf, header.bin, app.bin, res.bin, xcfg.bin, updater.bin);
+save(dcf_buf, app.dcf);

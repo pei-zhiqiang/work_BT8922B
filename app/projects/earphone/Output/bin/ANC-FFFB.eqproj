@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <appSettings>
+        <add key="FILE" value="EQ-PROJ" />
+        <add key="VERSION" value="0.1.0" />
+        <add key="ProjectName" value="主动降噪通路" />
+        <add key="AncPanel" value="FFFB" />
+        <add key="EQName_1" value="降噪L" />
+        <add key="EQPath_1" value="Settings\Resources\FFFB\anc\l0_nos.eq" />
+        <add key="EQName_2" value="降噪补偿L" />
+        <add key="EQPath_2" value="Settings\Resources\FFFB\anc\l0_msc.eq" />
+        <add key="EQName_3" value="降噪R" />
+        <add key="EQPath_3" value="Settings\Resources\FFFB\anc\r0_nos.eq" />
+        <add key="EQName_4" value="降噪补偿R" />
+        <add key="EQPath_4" value="Settings\Resources\FFFB\anc\r0_msc.eq" />
+        <add key="EQName_5" value="" />
+        <add key="EQPath_5" value="" />
+        <add key="EQName_6" value="" />
+        <add key="EQPath_6" value="" />
+        <add key="EQName_7" value="" />
+        <add key="EQPath_7" value="" />
+        <add key="EQName_8" value="" />
+        <add key="EQPath_8" value="" />
+        <add key="EQName_9" value="" />
+        <add key="EQPath_9" value="" />
+    </appSettings>
+</configuration>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <appSettings>
+        <add key="FILE" value="EQ-PROJ" />
+        <add key="VERSION" value="0.1.0" />
+        <add key="ProjectName" value="主动降噪通路" />
+        <add key="AncPanel" value="Hybrid" />
+        <add key="EQName_1" value="FF降噪L" />
+        <add key="EQPath_1" value="Settings\Resources\Hybrid\anc\l0_nos.eq" />
+        <add key="EQName_2" value="FF降噪补偿L" />
+        <add key="EQPath_2" value="Settings\Resources\Hybrid\anc\l0_msc.eq" />
+        <add key="EQName_3" value="FB降噪L" />
+        <add key="EQPath_3" value="Settings\Resources\Hybrid\anc\l1_nos.eq" />
+        <add key="EQName_4" value="FB降噪补偿L" />
+        <add key="EQPath_4" value="Settings\Resources\Hybrid\anc\l1_msc.eq" />
+        <add key="EQName_5" value="FF降噪R" />
+        <add key="EQPath_5" value="Settings\Resources\Hybrid\anc\r0_nos.eq" />
+        <add key="EQName_6" value="FF降噪补偿R" />
+        <add key="EQPath_6" value="Settings\Resources\Hybrid\anc\r0_msc.eq" />
+        <add key="EQName_7" value="FB降噪R" />
+        <add key="EQPath_7" value="Settings\Resources\Hybrid\anc\r1_nos.eq" />
+        <add key="EQName_8" value="FB降噪补偿R" />
+        <add key="EQPath_8" value="Settings\Resources\Hybrid\anc\r1_msc.eq" />
+        <add key="EQName_9" value="" />
+        <add key="EQPath_9" value="" />
+    </appSettings>
+</configuration>
